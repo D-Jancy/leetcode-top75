@@ -1,4 +1,4 @@
-package cool.jancy.sort;
+package cool.jancy;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
